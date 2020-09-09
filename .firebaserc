@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "von-ecommerce"
+  },
+  "targets": {
+    "von-ecommerce": {
+      "hosting": {
+        "ecommerce": [
+          "von-ecommerce"
+        ]
+      }
+    }
+  }
+}
